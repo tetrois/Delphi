@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.392,A:\Delphi\Автомобильный справочник - копия\ForfeitForm1.dfm=A:\Delphi\Автомобильный справочник - копия\Forfeit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,A:\Delphi\Автомобильный справочник (SQLite)\TaxForm1.dfm=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,=A:\Delphi\Автомобильный справочник\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm1.dfm=A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.043,=C:\Users\TetRoIS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,A:\Delphi\Автомобильный справочник (SQLite)\TaxForm1.pas=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm.dfm=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,A:\Delphi\Автомобильный справочник\ZnakForm1.pas=A:\Delphi\Автомобильный справочник\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,A:\Delphi\Автомобильный справочник (SQLite)\TaxForm1.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,A:\Delphi\Автомобильный справочник\DataModule1.dfm=A:\Delphi\Автомобильный справочник\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,A:\Delphi\Автомобильный справочник - копия\Forfeit.dfm=A:\Delphi\Автомобильный справочник - копия\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=A:\Delphi\Автомобильный справочник (SQLite)\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Users\TetRoIS\Documents\Embarcadero\Studio\Projects\Project1.dproj=A:\Delphi\Автомобильный справочник\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,A:\Delphi\Автомобильный справочник\Unit1.pas=A:\Delphi\Автомобильный справочник\MainForm1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,A:\Delphi\Автомобильный справочник\MainForm1.dfm=A:\Delphi\Автомобильный справочник\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,A:\Delphi\Автомобильный справочник - копия\ForfeitForm1.pas=A:\Delphi\Автомобильный справочник - копия\Forfeit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=A:\Delphi\Автомобильный справочник\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,A:\Delphi\Автомобильный справочник\MainForm1.dfm=A:\Delphi\Автомобильный справочник\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.800,A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm1.pas=A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,A:\Delphi\Автомобильный справочник\Unit1.dfm=A:\Delphi\Автомобильный справочник\MainForm1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,A:\Delphi\Автомобильный справочник (SQLite)\DriverLicenseForm.pas=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,A:\Delphi\Автомобильный справочник\ZnakForm1.dfm=A:\Delphi\Автомобильный справочник\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,A:\Delphi\Автомобильный справочник (SQLite)\Unit1.dfm=A:\Delphi\Автомобильный справочник (SQLite)\InsuranceForm1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,A:\Delphi\Автомобильный справочник\DataModule1.pas=A:\Delphi\Автомобильный справочник\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.453,=A:\Delphi\Автомобильный справочник\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,A:\Delphi\Автомобильный справочник (SQLite)\Unit1.dfm=A:\Delphi\Автомобильный справочник (SQLite)\PDDForm1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,=A:\Delphi\Автомобильный справочник - копия\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas=A:\Delphi\Автомобильный справочник (SQLite)\PDDForm1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,A:\Delphi\Автомобильный справочник\MainForm1.pas=A:\Delphi\Автомобильный справочник\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.452,A:\Delphi\Автомобильный справочник\MainForm1.pas=A:\Delphi\Автомобильный справочник\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas=A:\Delphi\Автомобильный справочник (SQLite)\InsuranceForm1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,A:\Delphi\Автомобильный справочник - копия\Forfeit.pas=A:\Delphi\Автомобильный справочник - копия\Unit1.pas</Transaction>
+    <Transaction>2015.06.06 15:15:18.217,=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>2015.06.06 15:17:41.826,A:\Delphi\Автомобильный справочник (SQLite)\EasterEggsForm1.pas=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.pas</Transaction>
+    <Transaction>2015.06.06 15:17:41.826,A:\Delphi\Автомобильный справочник (SQLite)\EasterEggsForm1.dfm=A:\Delphi\Автомобильный справочник (SQLite)\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
